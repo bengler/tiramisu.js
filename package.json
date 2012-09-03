@@ -1,0 +1,27 @@
+{
+  "author": "Bjørge Næss <bjoerge@origo.no>",
+  "name": "tiramisu",
+  "description": "Tiramisu client module",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/benglerpebbles/tiramisu.js.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "repeat": "latest",
+    "jquery": "git://github.com/bjoerge/jquery-node.git"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "coffee-script": "latest",
+    "expect.js": "latest",
+    "sinon": "git://github.com/cjohansen/Sinon.JS.git",
+    "browserify": "latest"
+  }
+}
