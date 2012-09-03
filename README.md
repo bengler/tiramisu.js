@@ -1,11 +1,5 @@
 # Tiramisu.js
+Browser module for the Tiramisu pebble (see pebblestack.org)
 
-Tiramisu client library for browsers
+Work in progress: More documentation and tests to come
 
-Note: This library should not be used standalone. Always use the version bundled with tiramisu.
-
-# Getting started
-
-  Run tests in Node.js
-
-    $ npm test
