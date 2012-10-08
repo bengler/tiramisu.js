@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "repeat": "latest",
+    "poll": "latest",
     "jquery": "git://github.com/bjoerge/jquery-node.git"
   },
   "devDependencies": {
