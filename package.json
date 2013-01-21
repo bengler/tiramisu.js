@@ -14,9 +14,9 @@
     "node": "*"
   },
   "dependencies": {
-    "repeat": "latest",
-    "poll": "latest",
-    "jquery": "git://github.com/bjoerge/jquery-node.git"
+    "jquery": "git://github.com/bjoerge/jquery-node.git",
+    "repeat": "~> 0.0.6",
+    "poll": "~> 0.0.1"
   },
   "devDependencies": {
     "mocha": "latest",
