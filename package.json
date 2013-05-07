@@ -3,6 +3,7 @@
   "name": "tiramisu",
   "description": "Tiramisu client module for browsers",
   "version": "0.0.6",
+  "main": "./index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/benglerpebbles/tiramisu.js.git"
